@@ -59,8 +59,8 @@ Follow the GUI prompts to transcribe your MP3 files.
 - Ensure the MP3 file path is correctly entered or selected via the browse dialog.
 
 ## Contributors
-[List contributors here]
+-
 
 ## License
-[Specify the license under which this project is released]
+This project is licensed under the MIT License
 
