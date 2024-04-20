@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, ttk, Text
 import threading
-from transcriber import transcriber  # Make sure the transcriber module is correctly imported
+from transcriber import transcriber 
 
 def transcribe_audio(file_path, progress_bar, text_area, style):
     if file_path:
